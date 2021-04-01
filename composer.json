@@ -6,8 +6,8 @@
     "prefer-stable": true,
     "require": {
         "composer/installers": "^1.0.24",
-        "wikimedia/composer-merge-plugin": "^1.4",
-        "drupal/core": "8.9.3",
+        "wikimedia/composer-merge-plugin": "^2.0",
+        "drupal/core": "9.1.5",
         "drupal/admin_toolbar": "^2.3"
     },
     "repositories": {
